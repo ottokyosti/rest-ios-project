@@ -15,6 +15,18 @@
 		E3322CC82A0A496F008DA64C /* Users.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3322CC72A0A496F008DA64C /* Users.swift */; };
 		E3322CCA2A0A49F9008DA64C /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3322CC92A0A49F9008DA64C /* User.swift */; };
 		E3322CCC2A0A4A99008DA64C /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3322CCB2A0A4A99008DA64C /* Models.swift */; };
+		E38CEA942A248E1E003B6134 /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEA932A248E1E003B6134 /* Validator.swift */; };
+		E38CEA972A24AAD2003B6134 /* MyForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEA962A24AAD2003B6134 /* MyForm.swift */; };
+		E38CEA992A24AB7A003B6134 /* TextFieldExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEA982A24AB7A003B6134 /* TextFieldExtension.swift */; };
+		E38CEA9C2A24ABF8003B6134 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEA9B2A24ABF8003B6134 /* SearchView.swift */; };
+		E38CEA9E2A24AC47003B6134 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEA9D2A24AC47003B6134 /* SearchBar.swift */; };
+		E38CEAA12A24AEFD003B6134 /* MyNavigationButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEAA02A24AEFD003B6134 /* MyNavigationButton.swift */; };
+		E38CEAA32A24AF46003B6134 /* MyDeleteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEAA22A24AF46003B6134 /* MyDeleteButton.swift */; };
+		E38CEAA92A24B048003B6134 /* UsersList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEAA82A24B048003B6134 /* UsersList.swift */; };
+		E38CEAAB2A24B06A003B6134 /* MainContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEAAA2A24B06A003B6134 /* MainContent.swift */; };
+		E38CEAAD2A24B097003B6134 /* LoadMoreButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEAAC2A24B097003B6134 /* LoadMoreButton.swift */; };
+		E38CEAAF2A24B231003B6134 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEAAE2A24B231003B6134 /* MainView.swift */; };
+		E38CEAB12A24B31E003B6134 /* MyToolBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38CEAB02A24B31E003B6134 /* MyToolBarItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +38,18 @@
 		E3322CC72A0A496F008DA64C /* Users.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Users.swift; sourceTree = "<group>"; };
 		E3322CC92A0A49F9008DA64C /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		E3322CCB2A0A4A99008DA64C /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		E38CEA932A248E1E003B6134 /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
+		E38CEA962A24AAD2003B6134 /* MyForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyForm.swift; sourceTree = "<group>"; };
+		E38CEA982A24AB7A003B6134 /* TextFieldExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExtension.swift; sourceTree = "<group>"; };
+		E38CEA9B2A24ABF8003B6134 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		E38CEA9D2A24AC47003B6134 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		E38CEAA02A24AEFD003B6134 /* MyNavigationButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNavigationButton.swift; sourceTree = "<group>"; };
+		E38CEAA22A24AF46003B6134 /* MyDeleteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDeleteButton.swift; sourceTree = "<group>"; };
+		E38CEAA82A24B048003B6134 /* UsersList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersList.swift; sourceTree = "<group>"; };
+		E38CEAAA2A24B06A003B6134 /* MainContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainContent.swift; sourceTree = "<group>"; };
+		E38CEAAC2A24B097003B6134 /* LoadMoreButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadMoreButton.swift; sourceTree = "<group>"; };
+		E38CEAAE2A24B231003B6134 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		E38CEAB02A24B31E003B6134 /* MyToolBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToolBarItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +83,14 @@
 		E3322CB52A0A48A2008DA64C /* rest-ios-project */ = {
 			isa = PBXGroup;
 			children = (
+				E38CEAA72A24B02C003B6134 /* MainView */,
+				E38CEAA62A24B010003B6134 /* Validation */,
+				E38CEAA52A24AFB4003B6134 /* Network */,
+				E38CEAA42A24AF8A003B6134 /* Data */,
+				E38CEA9F2A24AEE6003B6134 /* MyButtons */,
+				E38CEA9A2A24ABC2003B6134 /* Search */,
+				E38CEA952A24AA9E003B6134 /* AddModify */,
 				E3322CB62A0A48A2008DA64C /* rest_ios_projectApp.swift */,
-				E3322CCB2A0A4A99008DA64C /* Models.swift */,
-				E3322CC92A0A49F9008DA64C /* User.swift */,
-				E3322CC72A0A496F008DA64C /* Users.swift */,
 				E3322CB82A0A48A2008DA64C /* ContentView.swift */,
 				E3322CBA2A0A48A3008DA64C /* Assets.xcassets */,
 				E3322CBC2A0A48A3008DA64C /* Preview Content */,
@@ -76,6 +104,70 @@
 				E3322CBD2A0A48A3008DA64C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E38CEA952A24AA9E003B6134 /* AddModify */ = {
+			isa = PBXGroup;
+			children = (
+				E38CEA962A24AAD2003B6134 /* MyForm.swift */,
+				E38CEA982A24AB7A003B6134 /* TextFieldExtension.swift */,
+			);
+			path = AddModify;
+			sourceTree = "<group>";
+		};
+		E38CEA9A2A24ABC2003B6134 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				E38CEA9B2A24ABF8003B6134 /* SearchView.swift */,
+				E38CEA9D2A24AC47003B6134 /* SearchBar.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		E38CEA9F2A24AEE6003B6134 /* MyButtons */ = {
+			isa = PBXGroup;
+			children = (
+				E38CEAA02A24AEFD003B6134 /* MyNavigationButton.swift */,
+				E38CEAA22A24AF46003B6134 /* MyDeleteButton.swift */,
+				E38CEAAC2A24B097003B6134 /* LoadMoreButton.swift */,
+			);
+			path = MyButtons;
+			sourceTree = "<group>";
+		};
+		E38CEAA42A24AF8A003B6134 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				E3322CC72A0A496F008DA64C /* Users.swift */,
+				E3322CC92A0A49F9008DA64C /* User.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		E38CEAA52A24AFB4003B6134 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				E3322CCB2A0A4A99008DA64C /* Models.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		E38CEAA62A24B010003B6134 /* Validation */ = {
+			isa = PBXGroup;
+			children = (
+				E38CEA932A248E1E003B6134 /* Validator.swift */,
+			);
+			path = Validation;
+			sourceTree = "<group>";
+		};
+		E38CEAA72A24B02C003B6134 /* MainView */ = {
+			isa = PBXGroup;
+			children = (
+				E38CEAA82A24B048003B6134 /* UsersList.swift */,
+				E38CEAAA2A24B06A003B6134 /* MainContent.swift */,
+				E38CEAAE2A24B231003B6134 /* MainView.swift */,
+				E38CEAB02A24B31E003B6134 /* MyToolBarItem.swift */,
+			);
+			path = MainView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -154,10 +246,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E38CEAAB2A24B06A003B6134 /* MainContent.swift in Sources */,
+				E38CEAB12A24B31E003B6134 /* MyToolBarItem.swift in Sources */,
+				E38CEA972A24AAD2003B6134 /* MyForm.swift in Sources */,
+				E38CEAA92A24B048003B6134 /* UsersList.swift in Sources */,
+				E38CEA9C2A24ABF8003B6134 /* SearchView.swift in Sources */,
+				E38CEA992A24AB7A003B6134 /* TextFieldExtension.swift in Sources */,
 				E3322CCA2A0A49F9008DA64C /* User.swift in Sources */,
 				E3322CB92A0A48A2008DA64C /* ContentView.swift in Sources */,
 				E3322CC82A0A496F008DA64C /* Users.swift in Sources */,
 				E3322CB72A0A48A2008DA64C /* rest_ios_projectApp.swift in Sources */,
+				E38CEAAF2A24B231003B6134 /* MainView.swift in Sources */,
+				E38CEA9E2A24AC47003B6134 /* SearchBar.swift in Sources */,
+				E38CEAA32A24AF46003B6134 /* MyDeleteButton.swift in Sources */,
+				E38CEA942A248E1E003B6134 /* Validator.swift in Sources */,
+				E38CEAA12A24AEFD003B6134 /* MyNavigationButton.swift in Sources */,
+				E38CEAAD2A24B097003B6134 /* LoadMoreButton.swift in Sources */,
 				E3322CCC2A0A4A99008DA64C /* Models.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

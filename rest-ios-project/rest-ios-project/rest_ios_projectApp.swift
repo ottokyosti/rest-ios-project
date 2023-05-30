@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+/// The main entry point of the iOS app.
 @main
 struct rest_ios_projectApp: App {
     var body: some Scene {
